@@ -1,0 +1,6 @@
+First Name: Jihyo
+Last Name: Kim
+Birth date: 1999.03.25
+Hobby: Programming
+Sex: Male
+
